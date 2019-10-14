@@ -6,7 +6,7 @@ p{
   font-size:14px;
 }
 .p{
-  text-decoration-color: Green;
+  color: Green;
   text-decoration-line:underline;
 }
 .p:hover{
